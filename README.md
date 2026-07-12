@@ -157,9 +157,9 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 <p align="center">
 
-<a href="https://leetcode.com/u/wvewBzlt03/">
+<a href="https://leetcode.com/u/jaysahu08/">
 
-<img src="https://leetcard.jacoblin.cool/wvewBzlt03?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/jaysahu08?theme=dark&font=Baloo&ext=contest"/>
 
 </a>
 
@@ -174,20 +174,6 @@ I'm a **Computer Science student** passionate about building scalable software w
 <a href="https://www.codechef.com/users/easy_cliff_40">
 
 <img src="https://cp-logo.vercel.app/codechef/easy_cliff_40"/>
-
-</a>
-
-</p>
-
----
-
-## HackerRank
-
-<p align="center">
-
-<a href="https://www.hackerrank.com/profile/jaysahu082005">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank">
 
 </a>
 
