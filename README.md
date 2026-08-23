@@ -14,8 +14,6 @@ Computer Science Student • Java Full Stack Developer • Backend Enthusiast
 <a href="mailto:Jaysahu0805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=JaySahu08&style=for-the-badge&color=blueviolet" />
-
 </div>
 
 ---
