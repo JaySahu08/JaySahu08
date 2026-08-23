@@ -123,16 +123,6 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 ---
 
-# GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JaySahu08/JaySahu08/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 # Competitive Programming
 
 ## LeetCode
