@@ -31,7 +31,7 @@ I'm a **Computer Science student** passionate about building scalable software w
 - Linux is my primary operating system
 - Regularly solving Data Structures & Algorithms problems
 - Interested in System Design
-- Planning to explore Machine Learning in the future
+- Explore Machine Learning
 
 ---
 
