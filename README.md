@@ -139,7 +139,7 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 ## CodeChef
 
-<p align="center">
+<p>
 
 <a href="https://www.codechef.com/users/easy_cliff_40">
 
