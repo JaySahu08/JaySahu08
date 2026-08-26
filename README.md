@@ -135,6 +135,7 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 </p>
 
+---
 
 ## CodeChef
 
@@ -146,11 +147,7 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 </a>
 
-</p>
-
 ## Codeforces
-
-<p align="center">
 
 <a href="https://codeforces.com/profile/jaysahu082005">
 
