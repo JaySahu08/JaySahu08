@@ -135,7 +135,6 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 </p>
 
----
 
 ## CodeChef
 
@@ -148,8 +147,6 @@ I'm a **Computer Science student** passionate about building scalable software w
 </a>
 
 </p>
-
----
 
 ## Codeforces
 
