@@ -141,11 +141,7 @@ I'm a **Computer Science student** passionate about building scalable software w
 
 <p>
 
-<a href="https://www.codechef.com/users/easy_cliff_40">
-
-<img src="https://cp-logo.vercel.app/codechef/easy_cliff_40"/>
-
-</a>
+<a href="https://www.codechef.com/users/easy_cliff_40"> **Code Chef**</a>
 
 ## Codeforces
 
