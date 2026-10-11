@@ -12,9 +12,7 @@ Computer Science Student • Java Full Stack Developer • Backend Enthusiast
 <a href="https://github.com/JaySahu08"><img src="https://img.shields.io/badge/GitHub-JaySahu08-181717?style=for-the-badge&logo=github"></a>
 <a href="https://www.linkedin.com/in/jay-sahu-759587273/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Sahu-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:Jaysahu0805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="(https://portfolio-nine-tan-31.vercel.app/)">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+<a href="https://portfolio-nine-tan-31.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   
 </p>
 
